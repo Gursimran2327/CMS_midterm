@@ -111,7 +111,7 @@
 
 ## Cart Layout Changes
 - **Cart Layout Changes**: Adjusted layout to move the "Quantity" column before the "Price" column and the "Update Cart" button before the "Continue Shopping" button.
-- **Code Changes**: (Add the specific code snippets if needed).
+
 
 ## Enhance Your Site Functionality
 ### Installed Apps
